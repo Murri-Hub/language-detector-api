@@ -1,0 +1,17 @@
+# Core ML Libraries
+scikit-learn
+pandas
+numpy
+
+# NLP Libraries
+spacy
+nltk
+
+# Visualization
+matplotlib
+seaborn
+
+# Note: I modelli linguistici di Spacy devono essere scaricati separatamente:
+# python -m spacy download en_core_web_sm
+# python -m spacy download it_core_news_sm
+# python -m spacy download de_core_news_sm
